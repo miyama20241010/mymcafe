@@ -103,7 +103,7 @@ img {
 
 /* NEWS----------------------*/
 #news {
-    background-image: url(../imagescafe/news-bg.jpg);
+    background-image: url("imagescafe/news-bg.jpg");
     height: 600px;
     margin-bottom: 40px;
 
@@ -296,7 +296,7 @@ aside p {
 
 /* MENU----------------------*/
 #menu {
-    background-image: url(../imagescafe/menu-bg.jpg);
+    background-image: url("imagescafe/menu-bg.jpg");
     min-height: 100vh;
 }
 .menu-content {
@@ -330,7 +330,7 @@ aside p {
 
 /* CONTACT----------------------*/
 #contact {
-    background-image: url(../imagescafe/contact-bg.jpg);
+    background-image: url("imagescafe/contact-bg.jpg");
     min-height: 100vh;
     h2 {
         color: #fff;
