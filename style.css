@@ -263,7 +263,7 @@ aside p {
     }
 
     /* menu */
-    .big-box{
+    .big-box {
         grid-column: auto;
         grid-row: auto;
     }
