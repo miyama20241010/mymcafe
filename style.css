@@ -161,7 +161,7 @@ aside {
 }
 .post-date span {
     font-size: 1rem;
-    border-bottom: 1px rgba(255, 255, 255, .5) solid;
+    border-top: 1px rgba(255, 255, 255, .5) solid;
     padding-top: 6px;
     display: block;
     width: 60%;
